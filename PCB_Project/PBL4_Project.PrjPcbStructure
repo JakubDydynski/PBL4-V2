@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=PBL4_Sch.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=JD_PBL4_PROJEKT.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=JD_PBL4_PROJEKT.SchDoc|FileName=Projekt 1pcb.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=JD_PBL4_PROJEKT.SchDoc|FileName=Szkic1pcb.SchDoc|SheetNumber=3
