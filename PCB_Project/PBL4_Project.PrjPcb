@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
 [Document10]
-DocumentPath=..\USB3075-30-A\SnapEDAsch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
-
-[Document11]
 DocumentPath=..\stm32\Components - 08.04.22 - 13.07.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPYAEVCA
 
-[Document12]
+[Document11]
 DocumentPath=..\stm32\Components - 08.04.22 - 13.07.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWDGPDLR
 
-[Document13]
+[Document12]
 DocumentPath=..\led\Components - 08.04.22 - 13.08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EADESJDT
 
-[Document14]
+[Document13]
 DocumentPath=..\led\Components - 08.04.22 - 13.08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXWYMGMP
 
-[Document15]
+[Document14]
 DocumentPath=..\buzzer\Components - 08.04.22 - 12.49.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFNWKEYC
 
-[Document16]
+[Document15]
 DocumentPath=..\buzzer\Components - 08.04.22 - 12.49.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCLSJXJY
 
-[Document17]
+[Document16]
 DocumentPath=PBL4_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWMXRMQY
 
-[Document18]
+[Document17]
 DocumentPath=..\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLFBNSBH
 
-[Document19]
+[Document18]
 DocumentPath=..\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGHQVDNH
 
-[Document20]
+[Document19]
 DocumentPath=PBL4_PCB_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUBBWOWR
 
-[Document21]
+[Document20]
 DocumentPath=..\AltiumLibraryElements.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\AltiumLibraryElements.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
