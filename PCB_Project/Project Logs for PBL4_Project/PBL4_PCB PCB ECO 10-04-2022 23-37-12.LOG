@@ -1,0 +1,23 @@
+Added Component: Designator=U?(ADI-CP-8-1_L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.analog.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/AD8319.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/LFCSP(CP)/CP-8/CP_8_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Range (dB)"; Value = "45dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead Lead Frame Chip Scale Package [LFCSP_VD]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CP-8-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "031207-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Description"; Value = "Available in Die"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time (ns typ)"; Value = "6ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Frequency (MHz)"; Value = "1 to 10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "22mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Stability (dB)"; Value = "500mdB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Supply (V)"; Value = "3 to 5.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC20_2 Pin=U?-3
+Added Pin To Net: NetName=NetR9_1 Pin=U?-4
+Added Member To Class: ClassName=PBL44_Sch Member=Component U? AD8319ACPZ-R7
