@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UXFEHXSL
 
 [Document7]
 DocumentPath=..\Inductor_buzzer.SchLib
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PYNNLACG
 
 [Document11]
 DocumentPath=..\JD_RF_Detector.SchLib
@@ -242,7 +242,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BPTTINVT
 
 [Document13]
 DocumentPath=..\PcbLib_KM_PBL4.PcbLib
@@ -259,7 +259,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YAKSRAYX
 
 [Document14]
 DocumentPath=..\Schlib_KM_PBL4.SchLib
@@ -293,7 +293,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FNUWNENC
 
 [Document16]
 DocumentPath=..\SP0503BAHTG.SchLib
@@ -327,7 +327,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ICAVAKSP
 
 [Document18]
 DocumentPath=..\USB3075-30-A.IntLib
@@ -378,7 +378,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YHCLKYOE
 
 [Document21]
 DocumentPath=..\bc847a_transistor\bc847a_transistor.SchLib
@@ -412,7 +412,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GMIVLSFD
 
 [Document23]
 DocumentPath=..\USB3075-30-A\SnapEDAsch.SchLib
@@ -446,7 +446,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GPYAEVCA
 
 [Document25]
 DocumentPath=..\stm32\Components - 08.04.22 - 13.07.SchLib
@@ -480,7 +480,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EADESJDT
 
 [Document27]
 DocumentPath=..\led\Components - 08.04.22 - 13.08.SchLib
@@ -514,7 +514,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XFNWKEYC
 
 [Document29]
 DocumentPath=..\buzzer\Components - 08.04.22 - 12.49.SchLib
@@ -565,7 +565,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OLFBNSBH
 
 [Document32]
 DocumentPath=..\SamacSys.SchLib
@@ -583,6 +583,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGHQVDNH
+
+[Document33]
+DocumentPath=PBL4_PCB_Lib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUBBWOWR
 
 [Configuration1]
 Name=Sources
@@ -703,7 +720,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Deskjet 2540 series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
