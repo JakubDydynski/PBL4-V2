@@ -1,0 +1,30 @@
+Change Component Comment : Designator=U5 Old Comment=Comment New Comment=AD8319ACPZ-R7
+Change Managed Component Library Link : Designator=U5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F3F0A753-4B0C-4A3A-853C-4C3D661258F1 Old RevisionGUID= New RevisionGUID=1BD3A229-3A1E-4AD7-90DD-789036700105
+Change component parameters: Designator = "U5" ("U5"); Footprint = "ADI-CP-8-1_L"; UniqueID = "\EGOQGXTN" ("\EGOQGXTN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "www.analog.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/AD8319.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/LFCSP(CP)/CP-8/CP_8_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dynamic Range (dB)"; Value = "45dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Lead Lead Frame Chip Scale Package [LFCSP_VD]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CP-8-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "031207-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Description"; Value = "Available in Die"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Response Time (ns typ)"; Value = "6ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RF Frequency (MHz)"; Value = "1 to 10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "22mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Stability (dB)"; Value = "500mdB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Supply (V)"; Value = "3 to 5.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC20_2 Pin=U5-3
+Added Pin To Net: NetName=NetR9_1 Pin=U5-4
+Added Pin To Net: NetName=NetR9_2 Pin=U5-5
+Added Pin To Net: NetName=NetR8_2 Pin=U5-6
+Added Pin To Net: NetName=NetC18_1 Pin=U5-7
+Added Pin To Net: NetName=NetC17_2 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Member To Class: ClassName=PBL44_Sch Member=Component U5 AD8319ACPZ-R7
