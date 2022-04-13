@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=USB_UART_P Pin=D2-3
+Removed Pin From Net: NetName=USB_UART_N Pin=D2-4
+Added Pin To Net: NetName=USB_UART_P Pin=D2-2
+Added Pin To Net: NetName=USB_UART_N Pin=D2-3
+Added Pin To Net: NetName=NetC1_1 Pin=D2-4
+Added Member To Class: ClassName=PBL44_Sch Member=Component R8 CRCW06030000Z0EA
+Added Member To Class: ClassName=PBL44_Sch Member=Component R10 Res3
+Added Member To Class: ClassName=PBL44_Sch Member=Component R12 CRCW06031K00FKEA
+Added Member To Class: ClassName=PBL44_Sch Member=Component R13 CRCW06031K00FKEA
+Added Member To Class: ClassName=PBL44_Sch Member=Component R18 ERJ-3EKF4700V
+Added Member To Class: ClassName=PBL44_Sch Member=Component R20 RC0805FR-073K3L
+Added Member To Class: ClassName=PBL44_Sch Member=Component R21 Res3
+Added Room: Name=PBL44_Sch
