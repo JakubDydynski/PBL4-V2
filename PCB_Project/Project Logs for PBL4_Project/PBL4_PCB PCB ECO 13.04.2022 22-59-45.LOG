@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_N Pin=D5-3
+Removed Pin From Net: NetName=USB_P Pin=D5-4
+Added Pin To Net: NetName=USB_N Pin=D5-2
+Added Pin To Net: NetName=USB_P Pin=D5-3
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_4 Pin=J2-1
+Added Pin To Net: NetName=NetD5_4 Pin=R20-1
+Added Net: Name=NetD5_4
+Added Room: Name=PBL44_Sch
