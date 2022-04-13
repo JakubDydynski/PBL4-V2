@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetL2_1 Pin=LS1-25
+Added Pin To Net: NetName=PA1 ADC Pin=R10-2
+Added Pin To Net: NetName=PA1 ADC Pin=U3-10
+Added Net: Name=PA1 ADC
+Added Member To Class: ClassName=PBL44_Sch Member=Component U3 STM32F103CBT6
+Added Room: Name=PBL44_Sch

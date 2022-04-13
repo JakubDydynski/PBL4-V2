@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LD3 Pin=U3-13
+Removed Pin From Net: NetName=LD2 Pin=U3-16
+Removed Pin From Net: NetName=LD1 Pin=U3-17
+Added Pin To Net: NetName=LD3 Pin=U3-40
+Added Pin To Net: NetName=LD2 Pin=U3-41
+Added Pin To Net: NetName=LD1 Pin=U3-42
+Added Room: Name=PBL44_Sch

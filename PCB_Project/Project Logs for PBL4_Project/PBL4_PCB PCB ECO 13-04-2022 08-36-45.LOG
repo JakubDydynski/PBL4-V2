@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LD5 Pin=U3-11
+Removed Pin From Net: NetName=LD4 Pin=U3-12
+Added Pin To Net: NetName=LD4 Pin=U3-45
+Added Pin To Net: NetName=LD5 Pin=U3-46
+Added Room: Name=PBL44_Sch
