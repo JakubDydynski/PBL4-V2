@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=M_CTS/U_RTS Pin=J4-6
+Removed Pin From Net: NetName=M_CTS/U_RTS Pin=U3-27
+Removed Pin From Net: NetName=M_CTS/U_RTS Pin=U3-39
+Removed Pin From Net: NetName=M_CTS/U_RTS Pin=U6-15
+Added Pin To Net: NetName=M_RTS/U_CTS Pin=U3-27
+Added Pin To Net: NetName=M_RTS/U_CTS Pin=U6-15
+Added Net: Name=M_RTS/U_CTS
+Added Pin To Net: NetName=TDO/SWO/PB3 Pin=J4-6
+Added Pin To Net: NetName=TDO/SWO/PB3 Pin=U3-39
+Added Net: Name=TDO/SWO/PB3
+Added Room: Name=PBL44_Sch
