@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=USB_UART_P Pin=D2-2
+Removed Pin From Net: NetName=USB_UART_N Pin=D2-3
+Removed Pin From Net: NetName=VBUS_USB2 Pin=D5-4
+Removed Pin From Net: NetName=VBUS_USB2 Pin=J2-1
+Removed Pin From Net: NetName=VBUS_USB2 Pin=R20-1
+Added Pin To Net: NetName=USB_UART_N Pin=D2-2
+Added Pin To Net: NetName=USB_UART_P Pin=D2-3
+Change Net Name : Old Net Name=NetC1_1 New Net Name=VBUS2
+Added Pin To Net: NetName=VBUS Pin=D5-4
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Pin To Net: NetName=VBUS Pin=R20-1
+Added Net: Name=VBUS
+Added Room: Name=PBL44_Sch

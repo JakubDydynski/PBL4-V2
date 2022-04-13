@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VBUS_USB2 Pin=D5-4
+Added Pin To Net: NetName=VBUS_USB2 Pin=J2-1
+Added Pin To Net: NetName=VBUS_USB2 Pin=R20-1
+Added Room: Name=PBL44_Sch
