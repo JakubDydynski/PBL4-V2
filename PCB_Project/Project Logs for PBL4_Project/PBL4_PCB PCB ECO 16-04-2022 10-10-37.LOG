@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetL2_1 Pin=LS1-16
+Added Pin To Net: NetName=3V3 Pin=LS1-17
+Added Room: Name=PBL44_Sch

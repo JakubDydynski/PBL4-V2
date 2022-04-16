@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=ANT1-1
+Removed Pin From Net: NetName=GND Pin=ANT1-3
+Added Member To Class: ClassName=PBL44_Sch Member=Component J4 SWD - STM32
+Added Member To Class: ClassName=PBL44_Sch Member=Component U3 STM32F103CBT6
+Added Room: Name=PBL44_Sch
