@@ -126,23 +126,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MJEMKVHD
 
 [Document6]
-DocumentPath=..\Switch_Alcoswitch_MHS133G04_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RSDVYVJQ
-
-[Document7]
 DocumentPath=..\bc847a_transistor\bc847a_transistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHCLKYOE
 
-[Document8]
+[Document7]
 DocumentPath=..\bc847a_transistor\bc847a_transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWYYGWMK
 
-[Document9]
+[Document8]
 DocumentPath=..\USB3075-30-A\GCT_USB3075-30-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document10]
+[Document9]
 DocumentPath=..\stm32\Components - 08.04.22 - 13.07.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPYAEVCA
 
-[Document11]
+[Document10]
 DocumentPath=..\stm32\Components - 08.04.22 - 13.07.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWDGPDLR
 
-[Document12]
+[Document11]
 DocumentPath=..\led\Components - 08.04.22 - 13.08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EADESJDT
 
-[Document13]
+[Document12]
 DocumentPath=..\led\Components - 08.04.22 - 13.08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXWYMGMP
 
-[Document14]
+[Document13]
 DocumentPath=..\buzzer\Components - 08.04.22 - 12.49.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFNWKEYC
 
-[Document15]
+[Document14]
 DocumentPath=..\buzzer\Components - 08.04.22 - 12.49.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCLSJXJY
 
-[Document16]
+[Document15]
 DocumentPath=PBL4_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWMXRMQY
 
-[Document17]
+[Document16]
 DocumentPath=..\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLFBNSBH
 
-[Document18]
+[Document17]
 DocumentPath=..\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGHQVDNH
 
-[Document19]
+[Document18]
 DocumentPath=PBL4_PCB_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUBBWOWR
 
-[Document20]
+[Document19]
 DocumentPath=..\AltiumLibraryElements.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document21]
+[Document20]
 DocumentPath=..\AltiumLibraryElements.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGDIYCGE
 
-[Document22]
+[Document21]
 DocumentPath=JD_RF_Detector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBWIQOVH
 
-[Document23]
+[Document22]
 DocumentPath=JD_RF_Detector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYNNLACG
 
-[Document24]
+[Document23]
 DocumentPath=..\rfdetector\Components - 10.04.22 - 23.39.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=..\rfdetector\Components - 10.04.22 - 23.39.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBCWHBUK
 
-[Document26]
+[Document25]
 DocumentPath=..\rfdetector\Components - 10.04.22 - 23.39.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
