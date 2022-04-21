@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=ANT1-1
+Removed Pin From Net: NetName=GND Pin=ANT1-3
+Change Footprint: Cannot match pads with new footprint in component :U4 Footprint:JD_WSON-8
+Added Pin To Net: NetName=NetU3_28 Pin=U3-28
+Added Pin To Net: NetName=NetU3_28 Pin=U6-14
+Added Net: Name=NetU3_28
+Added Member To Class: ClassName=PBL44_Sch Member=Component R13 CRCW06031K00FKEA
+Added Room: Name=PBL44_Sch

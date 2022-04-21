@@ -1,0 +1,3 @@
+Change Footprint: Cannot match pads with new footprint in component :U4 Footprint:JD_WSON-8
+Change Net Name : Old Net Name=NetU3_28 New Net Name=SUSPEND
+Added Room: Name=PBL44_Sch
