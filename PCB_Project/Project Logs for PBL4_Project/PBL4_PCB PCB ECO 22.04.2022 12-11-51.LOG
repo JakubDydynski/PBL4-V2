@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=ANT1-1
-Removed Pin From Net: NetName=GND Pin=ANT1-3
-Change Component Library : Designator=U4 Old Library=JD_Amplifier.SchLib New Library=JD_Projekt.SchLib
-Added Pin To Net: NetName=GND Pin=U4-9
-Added Member To Class: ClassName=PBL44_Sch Member=Component ANT1 2195852-1
-Added Member To Class: ClassName=PBL44_Sch Member=Component C13 06035C102KAT2A
-Added Member To Class: ClassName=PBL44_Sch Member=Component C26 C0805C470J1GACTU
-Added Room: Name=PBL44_Sch

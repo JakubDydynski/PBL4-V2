@@ -1,7 +1,0 @@
-Added Component: Designator=U4(JD_WSON-8)
-Added Pin To Net: NetName=NetC12_2 Pin=U4-1
-Added Pin To Net: NetName=NetC11_2 Pin=U4-2
-Added Pin To Net: NetName=PWDN Pin=U4-5
-Added Pin To Net: NetName=NetC13_1 Pin=U4-7
-Added Member To Class: ClassName=PBL44_Sch Member=Component U4 TRF37D73
-Added Room: Name=PBL44_Sch

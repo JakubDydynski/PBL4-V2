@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=USB_UART_N Pin=D4-2
-Removed Pin From Net: NetName=VBUS Pin=D4-3
-Added Pin To Net: NetName=VBUS Pin=D4-2
-Added Pin To Net: NetName=USB_UART_N Pin=D4-3
-Added Member To Class: ClassName=PBL44_Sch Member=Component U6 CP2102N
-Added Room: Name=PBL44_Sch

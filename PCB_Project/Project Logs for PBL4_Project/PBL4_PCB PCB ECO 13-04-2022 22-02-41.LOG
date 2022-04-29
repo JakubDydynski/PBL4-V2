@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=USB_UART_P Pin=D2-2
-Removed Pin From Net: NetName=NetC1_1 Pin=D2-3
-Removed Pin From Net: NetName=USB_UART_N Pin=D2-4
-Added Pin To Net: NetName=USB_UART_N Pin=D2-2
-Added Pin To Net: NetName=USB_UART_P Pin=D2-3
-Added Pin To Net: NetName=NetC1_1 Pin=D2-4
-Added Room: Name=PBL44_Sch
