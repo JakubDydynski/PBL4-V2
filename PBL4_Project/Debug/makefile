@@ -60,8 +60,8 @@ all: main-build
 main-build: PBL4_Project.elf secondary-outputs
 
 # Tool invocations
-PBL4_Project.elf PBL4_Project.map: $(OBJS) $(USER_OBJS) C:\Users\48570\Desktop\ADHF21_EM-main\PBL4_Project\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "PBL4_Project.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\48570\Desktop\ADHF21_EM-main\PBL4_Project\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PBL4_Project.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+PBL4_Project.elf PBL4_Project.map: $(OBJS) $(USER_OBJS) C:\Users\48570\Desktop\altium\PBL4-V2\PBL4_Project\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "PBL4_Project.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\48570\Desktop\altium\PBL4-V2\PBL4_Project\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PBL4_Project.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
