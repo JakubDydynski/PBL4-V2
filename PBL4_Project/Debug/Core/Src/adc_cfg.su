@@ -1,0 +1,2 @@
+../Core/Src/adc_cfg.c:14:6:ADC_Init	4	static
+../Core/Src/adc_cfg.c:20:6:ConvertAdcToDbm	4	static
