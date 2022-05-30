@@ -1,12 +1,13 @@
 /*
+
  * rtc_cfg.c
  *
  *  Created on: May 18, 2022
  *      Author: 48570
- */
+
 #include "main.h"
 
-/*
+
  *
  *
  * Największą wadą naszego zegara jest jednak gubienie ustawień po odłączeniu zasilania.
@@ -24,7 +25,7 @@
  * Jak łatwo się domyślić, pierwsza odczytuje aktualny czas, a druga datę.
  *  Na początek chcemy odczytać tylko czas, ale te funkcje muszą być zawsze wywoływane razem i po odczycie czasu konieczny
  *  jest odczyt daty. Nie musimy tych danych wykorzystać, ale musimy je odczytać.
- */
+
 
 // ważne: nieużywane pola muszą być wyzerowane
 
@@ -51,3 +52,4 @@ void RTC_Init(void)
 }
 
 // uważać na 5% dokładnosci ale przeczytac w manulau dokladnosc wartosc dokladnosci
+*/

@@ -1,13 +1,14 @@
 /*
+
  * adc_cfg.c
  *
  *  Created on: 18 May 2022
  *      Author: 48570
- */
+
 
 #include "adc_cfg.h"
 #define SCALINGF_FACTOR 0
-/*Podczas próbkowania napięcia mikrokontroler (w uproszczeniu) ładuje wewnętrzny kondensator
+Podczas próbkowania napięcia mikrokontroler (w uproszczeniu) ładuje wewnętrzny kondensator
  * . Zajmuje to trochę czasu, a im większa jest rezystancja, przez którą jest on ładowany,
  *  tym więcej czasu potrzeba na jego naładowanie.
  *
@@ -17,7 +18,7 @@
  * Ale wszystko kwestia częstotliwości próbkowania!!
  *
  * Zbadać moc obliczeniową przy 1Ms/s
- * */
+ *
 void ADC_Init(void)
 {
   //HAL_ADCEx_Calibration_Start(&hadc1, ADC_SINGLE_ENDED);
@@ -33,3 +34,4 @@ void ConvertAdcToDbm(void)
 {
 
 }
+*/

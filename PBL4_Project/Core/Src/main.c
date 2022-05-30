@@ -166,7 +166,7 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   HAL_TIM_Base_Start(&htim1);
-  HAL_TIM_Base_Start_IT(&htim3);
+//  HAL_TIM_Base_Start_IT(&htim3);
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
   // LEDS
  // HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);//PA9 LD3
@@ -198,7 +198,7 @@ int main(void)
 	    __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, (int)(value[0]*100.0f/4096.0f));
 	   __HAL_TIM_SET_PRESCALER(&htim1,(int)((value[1]*1560/4096.0f)+120));
 	   printf("value1=%lu, value2=%lu\n", (int)((value[1]*1560/4096.0f)+120), (int)(value[0]*100.0f/4096.0f));
-	   HAL_Delay(250);
+	   HAL_Delay(10);
 
 	   /// 1680 psc is 500hz
 	   // 120 psc is 7khz
